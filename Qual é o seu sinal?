@@ -1,0 +1,9 @@
+function sinal(numeroA) {
+ if (numeroA > 0) {
+   return 1;
+} if (numeroA == 0) {
+ return 0;
+} if (numeroA < 0) {
+ return -1;
+}
+}
