@@ -1,0 +1,3 @@
+function podeSubir(alturaPessoa, vemCompania, temProblemaCardiaco){
+    return ((alturaPessoa>=1.2 && vemCompania || alturaPessoa>=1.5) &&! temProblemaCardiaco)
+}
