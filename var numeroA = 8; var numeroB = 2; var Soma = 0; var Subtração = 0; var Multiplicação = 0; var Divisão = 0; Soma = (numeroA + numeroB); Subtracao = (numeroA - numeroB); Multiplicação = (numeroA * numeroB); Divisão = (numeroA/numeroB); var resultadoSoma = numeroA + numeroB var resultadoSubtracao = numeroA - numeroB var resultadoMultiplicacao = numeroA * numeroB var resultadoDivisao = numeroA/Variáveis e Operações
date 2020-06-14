@@ -1,0 +1,16 @@
+var numeroA = 8;
+var numeroB = 2;  
+var Soma = 0;
+var Subtracao = 0;
+var Multiplicacao  = 0;
+var Divisao = 0;
+
+Soma = (numeroA + numeroB);
+Subtracao = (numeroA - numeroB);
+Multiplicacao = (numeroA * numeroB);
+Divisao = (numeroA / numeroB);
+
+var resultadoSoma = numeroA + numeroB
+var resultadoSubtracao = numeroA - numeroB
+var resultadoMultiplicacao = numeroA * numeroB
+var resultadoDivisao = numeroA / numeroB
