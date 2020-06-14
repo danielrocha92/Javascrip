@@ -1,0 +1,9 @@
+function hojeSeJoga(jogo) {
+ var domingo = "domingo";
+ var terca = "terça";
+ if (jogo == domingo) {  
+   return 'Hoje é dia de futebol! ! !';
+ } else if (jogo == terca){
+   return 'Hoje não é dia de futebol :(';
+ }  
+}
