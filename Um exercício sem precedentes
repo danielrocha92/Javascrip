@@ -1,0 +1,5 @@
+function podeSeAposentar(idade,sexo,anosCon){
+ var masculino="M"
+ var feminino="F"
+ return sexo==masculino && (idade >= 65) && (anosCon >= 30) || sexo==feminino && (idade >= 60) && (anosCon >=30);  
+}
