@@ -1,0 +1,5 @@
+function tamanhoNomeCompleto(nome,sobrenome) {
+ var nomeTodo = nome + " " + sobrenome;
+ return nomeTodo.length;
+}
+tamanhoNomeCompleto("Juan","Perez");
