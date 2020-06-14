@@ -1,0 +1,4 @@
+function escreverCartao(titulo,nome,sobrenome){
+    return (titulo + " " + nome + " " + sobrenome);
+}
+escreverCartao ("Dr.", "Ana", "Pérez");
