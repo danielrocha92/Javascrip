@@ -1,0 +1,4 @@
+function filosofoHipster(profissão, nacionalidade,quilômetros){
+return (profissão ='músico',nacionalidade!= 'Argentina',quilômetros > 1) && ((profissão !='Jogador de futebol', nacionalidade !='Alemanha', quilômetros !=12));
+return (profissão = 'Músico',nacionalidade = 'Brasil',quilômetros >= 2);
+}
