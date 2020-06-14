@@ -1,0 +1,9 @@
+function eMaior (numA,numB) {
+   if (numA > numB){
+     return numA;
+     }
+ else
+     {
+     return numB;
+     }
+}
