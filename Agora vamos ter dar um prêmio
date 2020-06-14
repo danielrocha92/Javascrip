@@ -1,0 +1,10 @@
+function medalhaSegundoOPosto(numero){
+var posto=["ouro","prata","bronze","Continue participando"];
+var posicao=numero-1;
+if (numero ==0 || numero >= posto.length){
+posicao=3;
+return posto[posicao];
+} else{
+return posto[posicao];
+}
+}
